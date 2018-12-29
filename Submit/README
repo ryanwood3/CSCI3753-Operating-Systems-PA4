@@ -1,0 +1,9 @@
+Ryan Wood
+Programming Assignment 4
+Student ID: 102236570
+
+Run sudo make to build
+
+Run ./test-* where * is predict or lru to test the paging implementation.
+
+Average ratio blocked/compute=.014-.019
